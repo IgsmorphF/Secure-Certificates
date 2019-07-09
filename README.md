@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Secure Certificates  [Image](https://drive.google.com/file/d/16icXbu5GWXzc7IJV3msqwz5NBGajnR4a/view?usp=sharing)
+
+Your home for safe, secure, and accurate material certificates.  
+
+### Create your own certs
+[Link](https://docs.google.com/spreadsheets/d/1JOdcBDS6IAvhh7dECzuxIXwRHK66UBB7c2cSJ9r5W6I/edit?usp=sharing)
+### Access certs shared with you
+
+
+
 
 You can use the [editor on GitHub](https://github.com/IgsmorphF/Secure-Certificates/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
